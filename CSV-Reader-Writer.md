@@ -122,7 +122,7 @@ def raw_test():
 raw_test()
 ```
 We ask the user how many columns does he want to write for each row and then ask him for a row as long as he wants to continue,
-then we print our raw input and write it to a file called raw.csv, then we read it again and print the data. When we run our script,
-the output will look like this:
+then we print our raw input and write it to a file called raw.csv, then we read it again and print the data. When we run our script, the output will look like this:
 
+<!-- page 3 (11 de 88)-->
 
