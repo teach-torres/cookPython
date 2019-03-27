@@ -14,8 +14,11 @@ extension anyway. Such lack of strict terminology makes data exchange very diffi
 RFC 4180 provides some rules to this format:
 
 • It’s plain text
+
 • Consists of records
+
 • Every record consists of fields separated by a single character delimiter
+
 • Every record has the same sequence of fields
 
 But unless there is additional information about the provided file (such as if the rules provided by RFC were followed), data
